@@ -1,6 +1,6 @@
 <!-- Intro -->
 
-<a align="center" href="http://serdargavas.com/" target="_blank">My portfolio</a>
+<a align="center" href="http://serdargavas.com/" target="_blank"><img src="screenshot.png"></a>
 <h1 align="center">Hi!! I'm Serdar.</h1>
 <h3 align="center">About Me</h3>  
  <p>
