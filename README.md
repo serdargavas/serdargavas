@@ -1,11 +1,11 @@
 <!-- Intro -->
 
 <a align="center" href="http://serdargavas.com/" target="_blank"><img src="screenshot.png"></a>
-<h1 align="center">Hi!! I'm Serdar. <img src="hacker-pepe.gif"/></h1>
+<h1 align="center">Hi!! I'm Serdar. <img src="hacker-pepe.gif" style="height: 4rem"/></h1>
 <h3 align="center">About Me</h3>  
  <p>
  👩‍🎓  I'm a fourth-year CE student at Kutahya Dumlupinar University.
-<br>💫 I’m a full-stack web developer, currently learning TS and React Query.
+<br>💫 I’m a full-stack web developer with React.js and Node.js.
 <br>⭐ Besides all that I love gaming stuff.
 <br>👩‍💻 Constantly learning. I'm super interested in coding!
  </p>
