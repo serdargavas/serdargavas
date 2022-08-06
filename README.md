@@ -1,7 +1,7 @@
 <!-- Intro -->
 
 <a align="center" href="http://serdargavas.com/" target="_blank"><img src="screenshot.png"></a>
-<h1 align="center">Hi!! I'm Serdar. <img src="hacker-pepe.gif" style="height: 3rem"/></h1>
+<h1 align="center">Hi!! I'm Serdar. <img src="hacker-pepe.gif" style="height: 2rem"/></h1>
 <h3 align="center">About Me</h3>  
  <p>
  👩‍🎓  I'm a fourth-year CE student at Kutahya Dumlupinar University.
