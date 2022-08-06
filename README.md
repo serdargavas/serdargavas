@@ -1,7 +1,7 @@
 <!-- Intro -->
 
 <a align="center" href="http://serdargavas.com/" target="_blank"><img src="screenshot.png"></a>
-<h1 align="center">Hi!! I'm Serdar.</h1>
+<h1 align="center">Hi!! I'm Serdar. <div class="tenor-gif-embed" data-postid="16298165" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/hacker-pepe-meme-shades-typing-gif-16298165">Hacker Pepe Sticker</a>from <a href="https://tenor.com/search/hacker-stickers">Hacker Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script></h1>
 <h3 align="center">About Me</h3>  
  <p>
  👩‍🎓  I'm a fourth-year CE student at Kutahya Dumlupinar University.
