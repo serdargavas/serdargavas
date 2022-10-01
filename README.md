@@ -4,10 +4,10 @@
 <h1 align="center">Hi!! I'm Serdar. <img src="hacker-pepe.gif" style="height: 2rem; width: 2rem"/></h1>
 <h3 align="center">About Me</h3>  
  <p>
- 👩‍🎓  I'm a fourth-year CE student at Kutahya Dumlupinar University.
-<br>💫 I’m a full-stack web developer with React.js and Node.js.
-<br>⭐ Besides all that I love gaming stuff.
-<br>👩‍💻 Constantly learning. I'm super interested in coding!
+ 💫💻 I'm a fourth-year CE student at Kutahya Dumlupinar University.
+<br>💫💻 I’m a full-stack web developer with React.js and Node.js.
+<br>💫💻 Besides all that I love gaming stuff.
+<br>💫💻 Constantly learning. I'm super interested in coding!
  </p>
 
 <!-- Socials --> 
